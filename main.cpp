@@ -18,13 +18,13 @@ int main()
 {
     system("title Test Program - v0.1"); // Title of console window.
     cout << "[+]========================================================[+]" << endl; //Output stuff to the console screen.
-    cout << "[+]                                                        [+]" << endl; //Output stuff to the console screen.
-    cout << "[+]               Program Name: Test Program               [+]" << endl; //Output stuff to the console screen.
-    cout << "[+]                  Program Version: 0.1                  [+]" << endl; //Output stuff to the console screen.
-    cout << "[+]                    Coded by Bug9519                    [+]" << endl; //Output stuff to the console screen.
-    cout << "[+] Purpose: Just a test program for my Github repository. [+]" << endl; //Output stuff to the console screen.
-    cout << "[+]                                                        [+]" << endl; //Output stuff to the console screen.
-    cout << "[+]========================================================[+]" << endl; //Output stuff to the console screen.
+    cout << "[+]                                                        [+]" << endl;
+    cout << "[+]               Program Name: Test Program               [+]" << endl;
+    cout << "[+]                  Program Version: 0.1                  [+]" << endl;
+    cout << "[+]                    Coded by Bug9519                    [+]" << endl;
+    cout << "[+] Purpose: Just a test program for my Github repository. [+]" << endl;
+    cout << "[+]                                                        [+]" << endl;
+    cout << "[+]========================================================[+]" << endl;
     system("pause"); // Pause execution of the program.
     system("cls"); // Clears the console screen.
     return 0;
